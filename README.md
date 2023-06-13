@@ -1,3 +1,3 @@
 # baekjoonJihye
 
-코테 연습 기록장
+코테 연습장
