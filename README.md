@@ -1,3 +1,3 @@
 # baekjoonJihye
 
-코테 연습장
+Github Desktop은 편하다.
